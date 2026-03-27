@@ -6,7 +6,7 @@ Este script foi construído para automatizar 100% da criação, treinamento, ava
 ## 🚀 Vantagem deste laboratório
 Como os nomes dos datasets e modelos neste desafio são padrões, **você não precisa alterar nem preencher nenhuma variável**. É só executar o script!
 
-## ☁️ Run in Cloud Shell:
+## ☁️ Como executar no Cloud Shell:
 
 ```bash
 curl -LO https://raw.githubusercontent.com/Philippe-C-S-Brito/Resolucao_Desafio_GSP341_Google_Cloud/main/bqml_desafio.sh
